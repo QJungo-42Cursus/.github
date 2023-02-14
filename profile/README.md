@@ -13,3 +13,5 @@ Here is all the project done so far in the 42 school cursus
 |  08   |   03   | [**PHILOSOPHERS**](https://github.com/QJungo-42Cursus/philosophers)                       |  C   |   📂   |
 |  09   |   04   | [**PISCINE CPP**](https://github.com/QJungo-42Cursus/cpp)                                 |  C   |   📂   |
 |  10   |   05   | [**FT_CONTAINERS**](https://github.com/QJungo-42Cursus/ft_containers)                     |  C   |   📂   |
+
+<img alt="holy graph of 42 Cursus" src="little_holy_graph.png" width="100" height="100"/>
