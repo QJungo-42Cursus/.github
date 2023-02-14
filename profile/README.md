@@ -1,5 +1,5 @@
 # QJungo 42 Cursus
-Here is all the project I've done (and started) so far in the [42 school](https://42lausanne.ch/) cursus
+Here is all the project I've done (and started) so far in the [**42 school**](https://42lausanne.ch/) cursus
 
 
 
