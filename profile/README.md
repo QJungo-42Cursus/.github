@@ -15,7 +15,7 @@ Here is all the project I've done (and started) so far in the [42 school](https:
 |   04   | [**PISCINE CPP**](https://github.com/QJungo-42Cursus/cpp)                                 |  C++   |   📂   |
 |   05   | [**FT_CONTAINERS**](https://github.com/QJungo-42Cursus/ft_containers)                     |  C++   |   📂   |
 
-<img alt="holy graph of 42 Cursus" src="https://github.com/QJungo-42Cursus/.github/blob/main/profile/little_holy_graph.png" width="1000"/>
+<img alt="holy graph of 42 Cursus" src="https://github.com/QJungo-42Cursus/.github/blob/main/profile/little_holy_graph.png" width="100"/>
 
 <!--
 TODO article sur 42 s'ils ne connaisse
