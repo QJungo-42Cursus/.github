@@ -1,7 +1,7 @@
 # QJungo 42 Cursus
 Here is all the project I've done (and started) so far in the [42 school](https://42lausanne.ch/) cursus
 
-<!-- cursus description -->
+
 
 | Circle | Project                                                                                   | Tech | Status |
 |:------:|:------------------------------------------------------------------------------------------|:----:|:------:|
@@ -16,6 +16,9 @@ Here is all the project I've done (and started) so far in the [42 school](https:
 |   05   | [**FT_CONTAINERS**](https://github.com/QJungo-42Cursus/ft_containers)                     |  C++   |   📂   |
 
 <img alt="holy graph of 42 Cursus" src="https://github.com/QJungo-42Cursus/.github/blob/main/profile/little_holy_graph.png" width="70%"/>
+
+42 School is all about peer to peer learning. You know nothing of C when you begin.
+When you leave, you not just know the basics of C, C++, Docker and Js, you know how learn more.
 
 <!--
 TODO article sur 42 s'ils ne connaisse
