@@ -13,7 +13,7 @@ Here is all the project done so far in the 42 school cursus
 |   04   | [**PISCINE CPP**](https://github.com/QJungo-42Cursus/cpp)                                 |  C   |   📂   |
 |   05   | [**FT_CONTAINERS**](https://github.com/QJungo-42Cursus/ft_containers)                     |  C   |   📂   |
 
-![holy graph of 42 Cursus](little_holy_graph.png)
+![holy graph of 42 Cursus](https://github.com/QJungo-42Cursus/.github/blob/main/profile/little_holy_graph.png)
 
 <!--
 <img alt="holy graph of 42 Cursus" src="little_holy_graph.png" width="1000"/>
