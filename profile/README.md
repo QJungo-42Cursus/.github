@@ -1,5 +1,5 @@
 # QJungo 42 Cursus
-Here is all the project I've done (and began) so far in the 42 school cursus
+Here is all the project I've done (and started) so far in the [42 school](https://42lausanne.ch/) cursus
 
 | Circle | Project                                                                                   | Tech | Status |
 |:------:|:------------------------------------------------------------------------------------------|:----:|:------:|
@@ -10,8 +10,8 @@ Here is all the project I've done (and began) so far in the 42 school cursus
 |   02   | [**FDF**](https://github.com/QJungo-42Cursus/fdf)                                         |  C   |   ✔    |
 |   03   | [**MINISHELL**](https://github.com/JungoQuentin/minishell)                                |  C   |   📌   |
 |   03   | [**PHILOSOPHERS**](https://github.com/QJungo-42Cursus/philosophers)                       |  C   |   📂   |
-|   04   | [**PISCINE CPP**](https://github.com/QJungo-42Cursus/cpp)                                 |  C   |   📂   |
-|   05   | [**FT_CONTAINERS**](https://github.com/QJungo-42Cursus/ft_containers)                     |  C   |   📂   |
+|   04   | [**PISCINE CPP**](https://github.com/QJungo-42Cursus/cpp)                                 |  C++   |   📂   |
+|   05   | [**FT_CONTAINERS**](https://github.com/QJungo-42Cursus/ft_containers)                     |  C++   |   📂   |
 
 ![holy graph of 42 Cursus](https://github.com/QJungo-42Cursus/.github/blob/main/profile/little_holy_graph.png)
 
