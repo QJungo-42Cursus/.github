@@ -1,5 +1,5 @@
 # QJungo 42 Cursus
-Here is all the project done so far in the 42 school cursus
+Here is all the project I've done (and began) so far in the 42 school cursus
 
 | Circle | Project                                                                                   | Tech | Status |
 |:------:|:------------------------------------------------------------------------------------------|:----:|:------:|
