@@ -11,9 +11,8 @@ Here is all the project I've done (and started) so far in the [**42 school**](ht
 |   2   | [**PIPEX**](https://github.com/QJungo-42Cursus/pipex)                               | reproduce the behavior of this bash function <br/>`cmd1 < input_file \| cdm2 > output file` |  C   |   ✔    |
 |   2   | [**FDF**](https://github.com/QJungo-42Cursus/fdf)                                   | 3D representation                                                                         |  C   |   ✔    |
 |   3   | [**MINISHELL**](https://github.com/JungoQuentin/minishell)                          | re-implement a simplified version of bash                                                 |  C   |   📌   |
-|   3   | [**PHILOSOPHERS**](https://github.com/QJungo-42Cursus/philosophers)                 | introduce the concept of multi-threading                                                  |  C   |   📂   |
-|   4   | [**PISCINE CPP**](https://github.com/QJungo-42Cursus/cpp)                           | basics of c++                                                                             | C++  |   📂   |
-|   5   | [**FT_CONTAINERS**](https://github.com/QJungo-42Cursus/ft_containers)               | re-implementations of the c++ containers (stl)                                            | C++  |   📂   |
+|   3   | [**PHILOSOPHERS**](https://github.com/QJungo-42Cursus/philosophers)                 | introduce the concept of multi-threading                                                  |  C   |   ✔   |
+|   4   | [**PISCINE CPP1**](https://github.com/QJungo-42Cursus/cpp)                           | basics of c++                                                                             | C++  |   ✔   |
 
 <img alt="holy graph of 42 Cursus" src="https://github.com/QJungo-42Cursus/.github/blob/main/profile/little_holy_graph.png" width="70%"/>
 
