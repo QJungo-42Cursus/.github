@@ -11,10 +11,11 @@ Here is all the project I've done (and started) so far in the [**42 school**](ht
 |   2    | [**FDF**](https://github.com/QJungo-42Cursus/fdf)                                   | 3D representation                                                                           |  C   |   ✔    |
 |   3    | [**MINISHELL**](https://github.com/JungoQuentin/minishell)                          | re-implement a simplified version of bash                                                   |  C   |   📌   |
 |   3    | [**PHILOSOPHERS**](https://github.com/QJungo-42Cursus/philosophers)                 | introduce the concept of multi-threading                                                    |  C   |   ✔    |
-|   4    | [**CUB3D**](https://github.com/QJungo-42Cursus/cub3D)                               | doom-like game, based on a raycasting algo !                                                | C++  |   ✔    |
+|   4    | [**CUB3D**](https://github.com/QJungo-42Cursus/cub3D)                               | doom-like game, based on a raycasting algo !                                                | C  |   ✔    |
 |  4-5   | [**PISCINE CPP**](https://github.com/QJungo-42Cursus/cpp)                           | basics of c++                                                                               | C++  |   ✔    |
-|   5    | [**INCEPTION**](https://github.com/QJungo-42Cursus/inception)                       | Setting up a wordpress server with docker-compose                                           | C++  |   ✔    |
-|   5    | [**WEBSERV**](https://github.com/QJungo-42Cursus/webserv)                           | Implementetion of a web server in C++ 98                                                    | C++  |   ✔    |
+|   5    | [**INCEPTION**](https://github.com/QJungo-42Cursus/inception)                       | Setting up a wordpress server with docker-compose                                           | Docker  |   ✔    |
+|   5    | [**WEBSERV**](https://github.com/QJungo-42Cursus/webserv)                           | Implementetion of a web server in C++ 98                                                    | C++  |   📌    |
+|   5    | [**TRANSCENDENCE**](https://github.com/QJungo-42Cursus/transcendence)                           | Web App with the Pong game                                                    | Web  |   📂    |
 
 <img alt="holy graph of 42 Cursus" src="https://github.com/QJungo-42Cursus/.github/blob/main/profile/little_holy_graph.png" width="70%"/>
 
