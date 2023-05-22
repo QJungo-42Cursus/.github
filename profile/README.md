@@ -1,6 +1,6 @@
 # QJungo 42 Cursus
 
-Here is all the project I've done (and started) so far in the [**42 school**](https://42lausanne.ch/) cursus
+Here is all the project I've done so far in the [**42 school**](https://42lausanne.ch/) cursus
 
 | Circle | Project                                                                             | Description                                                                                 |  Tech  | Status |
 | :----: | :---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | :----: | :----: |
@@ -21,10 +21,3 @@ Here is all the project I've done (and started) so far in the [**42 school**](ht
 
 42 School is all about peer to peer learning. You know nothing of C when you begin.
 When you leave, you not just know the basics of C, C++, Docker and Js, you know how learn more.
-
-<!--
-TODO article sur 42 s'ils ne connaissent
-
-TODO add
-|   01   | [**GET_NEXT_LINE**](https://github.com/QJungo-42Cursus/libft/blob/master/get_next_line.c) |  C   |   ✔    |
--->
