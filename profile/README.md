@@ -15,7 +15,7 @@ Here is all the project I've done so far in the [**42 school**](https://42lausan
 |  4-5   | [**PISCINE CPP**](https://github.com/QJungo-42Cursus/cpp)                           | basics of c++                                                                               |  C++   |   ✔    |
 |   5    | [**INCEPTION**](https://github.com/QJungo-42Cursus/inception)                       | Setting up a wordpress server with docker-compose                                           | Docker |   ✔    |
 |   5    | [**WEBSERV**](https://github.com/QJungo-42Cursus/webserv)                           | Implementetion of a web server in C++ 98                                                    |  C++   |   ✔   |
-|   6    | [**TRANSCENDENCE**](https://github.com/QJungo-42Cursus/transcendence)               | Web App with the Pong game                                                                  |  Web   |   📌   |
+|   6    | [**TRANSCENDENCE**](https://github.com/QJungo-42Cursus/transcendence)               | Web App with the Pong game                                                                  |  Web   |   ✔   |
 
 <img alt="holy graph of 42 Cursus" src="https://github.com/QJungo-42Cursus/.github/blob/main/profile/little_holy_graph2.png" width="70%"/>
 
